@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Flip and Match</string>
+    <string name="title_activity_main">Flip and Match</string>
+    <string name="package_name">com.sammytrsiregar.flipandmatch</string>
+    <string name="custom_url_scheme">com.sammytrsiregar.flipandmatch</string>
+</resources>
